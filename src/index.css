@@ -260,3 +260,9 @@ h1 {
     transform: translateY(0);
   }
 }
+
+.error {
+  background-color: rgba(219, 119, 119, 0.3);
+  color: #fdf8f2;
+  max-width: 500px
+}
